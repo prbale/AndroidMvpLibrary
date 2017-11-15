@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MvpDemoApp</string>
+    <string name="some_error">Some generic error message.</string>
+
+    <!--play store-->
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+
+</resources>
